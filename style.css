@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+    background-color: #5175AD;
+}
+
+.main_header {
+    width: 80%;
+    height: 100%;
+    background-color: #39547f;
+    display: flex;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: "PT Sans", sans-serif;
+    color: #DAEAFF;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+    color: #DAEAFF;
+}
+
+h2 {
+    margin: 0;
+    margin-left: 20px;
+}
+
+.menu {
+    font-size: 24px;
+    padding: auto;
+    margin: 0;
+}
+
+.main_block {
+    background-color: #466494;
+    height: 1500px;
+    width: 80%;
+    margin: auto;
+    color: #DAEAFF;
+    font-family: "PT Sans", sans-serif;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.discription {
+    display: flex;
+    font-size: 24px;
+    justify-content: left;
+    margin: 50px;
+}
+
+img {
+    margin: 10px;
+}
+
+.main_block_past {
+    background-color: #466494;
+    height: 1500px;
+    width: 80%;
+    margin: auto;
+    color: #DAEAFF;
+    font-family: "PT Sans", sans-serif;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.table {
+    margin: 0 auto;
+    color: #DAEAFF;
+    border: solid 2px #2e4468;
+}
+
+th {
+    background-color: #5175AD;
+    width: 250px;
+    color: #DAEAFF;
+    border: solid 2px #2e4468;
+}
+
+tr {
+    background-color: #5175AD;
+}
+
+td {
+    border: solid 2px #2e4468;
+}
