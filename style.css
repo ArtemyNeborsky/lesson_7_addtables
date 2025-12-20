@@ -60,19 +60,8 @@ img {
     margin: 10px;
 }
 
-.main_block_past {
-    background-color: #466494;
-    height: 100%;
-    width: 80%;
-    margin: auto;
-    color: #DAEAFF;
-    font-family: "PT Sans", sans-serif;
-    font-size: 15px;
-    padding: 10px;
-}
-
 .table {
-    margin: 0 auto;
+    margin: 20px;
     color: #DAEAFF;
     border: solid 2px #2e4468;
 }
@@ -92,26 +81,4 @@ td {
 
 thead {
     border-collapse: solid
-}
-
-.main_block_present {
-    background-color: #466494;
-    height: 100%;
-    width: 80%;
-    margin: auto;
-    color: #DAEAFF;
-    font-family: "PT Sans", sans-serif;
-    font-size: 15px;
-    padding: 10px;
-}
-
-.main_block_future {
-    background-color: #466494;
-    height: 100%;
-    width: 80%;
-    margin: auto;
-    color: #DAEAFF;
-    font-family: "PT Sans", sans-serif;
-    font-size: 15px;
-    padding: 10px;
 }
